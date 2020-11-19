@@ -23,7 +23,7 @@ name                     : #"Your Name"
 description              : "The Continuous Illawarra Escarpment Trail Project is run by volunteers most of whom are Trail Runners and members of the Seacliff Coasters Trail Running community"
 url                      : "https://ourescarpment.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "ourescarpment/ourescarpmentpage"
+repository               : # GitHub username/repo-name e.g. "ourescarpment/ourescarpment"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -35,7 +35,7 @@ comments:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:          https://www.facebook.com/groups/seacliffcoasters
+  facebook: https://www.facebook.com/groups/seacliffcoasters
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -92,10 +92,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mat Wall-Smith"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : "Thirroul"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
   email            :
   links:
     - label: "Email"
