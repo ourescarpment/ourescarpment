@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "The Continuous Illawarra Escaprment Trail Project"
 name                     : #"Your Name"
 description              : "The Continuous Illawarra Escarpment Trail Project is run by volunteers most of whom are Trail Runners and members of the Seacliff Coasters Trail Running community"
-url                      : "https://ourescarpment.github.io"
+url                      : "https://ourescarpment/ourescarpment.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "ourescarpment/ourescarpment"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -35,7 +35,7 @@ comments:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook: https://www.facebook.com/groups/seacliffcoasters
+  facebook:                 #https://www.facebook.com/groups/seacliffcoasters
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
