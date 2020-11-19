@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise"  # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-AU"
@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "The Continuous Illawarra Escaprment Trail Project"
 name                     : #"Your Name"
 description              : "The Continuous Illawarra Escarpment Trail Project is run by volunteers most of whom are Trail Runners and members of the Seacliff Coasters Trail Running community"
-url                      : "https://ourescarpment/ourescarpment.github.io"
+url                      : "https://ourescarpment.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "ourescarpment/ourescarpment"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
