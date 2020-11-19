@@ -15,15 +15,15 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "en-AU"
+title                    : "Our Escarpment"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+subtitle                 : "The Continuous Illawarra Escaprment Trail Project"
+name                     : #"Your Name"
+description              : "The Continuous Illawarra Escarpment Trail Project is run by volunteers most of whom are Trail Runners and members of the Seacliff Coasters Trail Running community"
+url                      : "https://ourescarpment.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : # GitHub username/repo-name e.g. "ourescarpment/ourescarpmentpage"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -35,8 +35,7 @@ comments:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
+  facebook:          https://www.facebook.com/groups/seacliffcoasters
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -93,10 +92,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Mat Wall-Smith"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : ""
+  location         : "Thirroul"
   email            :
   links:
     - label: "Email"
